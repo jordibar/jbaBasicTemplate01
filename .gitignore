@@ -1,0 +1,12 @@
+# Ignora la carpeta node_modules, creada al instalar Gulp
+# Es la carpeta de dependencias, al ejecutar gulp se creará esta carpeta
+# por lo que no la necesitamos en nuestro repo
+
+node_modules/
+
+# Ignorar todos los archivos finalizados .DS_Store
+
+*.DS_Store
+
+
+
